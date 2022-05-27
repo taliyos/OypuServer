@@ -35,4 +35,4 @@ TBD
 - [Charles Reverand](https://www.github.com/taliyos)
 
 ## License
-OypuGame is licensed under the MIT License. See [LICENSE](LICENSE) for additional details.
+OypuServer is licensed under the MIT License. See [LICENSE](LICENSE) for additional details.
