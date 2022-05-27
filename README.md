@@ -16,20 +16,20 @@ A while back, I made a version of PuyoPuyo that you can still play. It's not per
 TBD
 
 ## Features
- - [] Game->Server Communication
-   - [] Piece Placement
-   - [] Current Piece
- - [] Server->Game Communication
-   - [] Score
-   - [] Next Piece
-   - [] Other Player Info
-     - [] Score
-     - [] Piece Placement
-     - [] Current Piece
-     - [] Next Piece
- - [] Account Creation
- - [] Account Login
- - [] Matchmaking
+ - [ ] Game->Server Communication
+   - [ ] Piece Placement
+   - [ ] Current Piece
+ - [ ] Server->Game Communication
+   - [ ] Score
+   - [ ] Next Piece
+   - [ ] Other Player Info
+     - [ ] Score
+     - [ ] Piece Placement
+     - [ ] Current Piece
+     - [ ] Next Piece
+ - [ ] Account Creation
+ - [ ] Account Login
+ - [ ] Matchmaking
 
 ## Current Maintainers
 - [Charles Reverand](https://www.github.com/taliyos)
